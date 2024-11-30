@@ -1,0 +1,13 @@
+.button {
+    background-color: rgb(28, 28, 185);
+    color: rgb(10, 10, 10);
+    padding: 10px;
+    border-radius: 5px;
+    /* filter: blur(1px); */
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+    text-decoration: none;
+    transition: color 0.5s ease;
+    cursor: pointer;
+    border: 1px solid rgb(70, 151, 243);
+    opacity: 0.6;
+}
